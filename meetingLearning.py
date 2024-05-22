@@ -5,7 +5,7 @@ def meetingFile_AI():
     # 标题
     st.header("🔗峰会资料下载_AI", divider="rainbow")
     st.markdown("""
-- ### Qcon2024:
+### Qcon2024:
 
 - **文件名称:** 向量数据库与+RAG+落地思考与实践-苏鹏.pdf 分享链接:https://pan.baidu.com/s/14Sj6mkrGC8Vf8MD1l05z9A 提取码:AIGC  
 
@@ -53,3 +53,46 @@ def meetingFile_AI():
 
 
 """, unsafe_allow_html=True)
+
+
+def meetingFile_softTest():
+    # 标题
+    st.header("🔗峰会资料下载_软件测试（2023）", divider="rainbow")
+    st.markdown("""
+**文件名称：**测试专场 分享链接:https://pan.baidu.com/s/1D-Q0Bkhd7wTk7q5j3xC6OA  
+**文件名称：**A2--魏同权--基于大模型的软件测试能力提升研究.pdf 分享链接:https://pan.baidu.com/s/1otDDroWUbvueFf_6J3v0Pg  
+**文件名称：**A2--魏同权--基于大模型的软件测试能力提升研究(1).pdf 分享链接:https://pan.baidu.com/s/1epUtJHnUZ0_g6jHd1vOAUw  
+**文件名称：**A1--王璐璐--坚持追求卓越 - 软件测试的自我革新与实践.pdf 分享链接:https://pan.baidu.com/s/1nKwvN5oB1PSLWMS99gRhtQ  
+**文件名称：**A3--丁海苗--基于录制回放的智能化测试在金融场景的落地及实践(1).pdf 分享链接:https://pan.baidu.com/s/12sLcEpnjgJ7HqyjxcBZpww  
+**文件名称：**A1--林冰玉--延伸测试边界，构建银行新型质量体系(1).pdf 分享链接:https://pan.baidu.com/s/1-8jxnRpF-yc0EDL-knDgFg  
+**文件名称：**A1--王璐璐--坚持追求卓越 - 软件测试的自我革新与实践(2).pdf 分享链接:https://pan.baidu.com/s/1DL5nhPKFRFrBtPTFQzxoBQ  
+**文件名称：**A3-余超-多云环境中部署及管理Kubernetes 集群的测试自动化实现.pdf 分享链接:https://pan.baidu.com/s/1qUHSbmUlVRX4iB81m1u23A  
+**文件名称：**A4--吕飞飞--基于LLM提升测试效率的应用实践(1).pdf 分享链接:https://pan.baidu.com/s/1qD7-avi7aSOpysSzFAerFA  
+**文件名称：**自动化测试专场--余超--多云环境中部署及管理K8S集群的测试自动化实现-脱敏(1).pdf 分享链接:https://pan.baidu.com/s/1jNASLJ5fvqiTQ8edxEIu7g  
+**文件名称：**自动化测试专场--余超--多云环境中部署及管理K8S集群的测试自动化实现-脱敏.pdf 分享链接:https://pan.baidu.com/s/1sSMhP3yNYKRYuhhtB-ydWw  
+**文件名称：**A1-李柯-汽车数字转型下的智能精准测试.pdf 分享链接:https://pan.baidu.com/s/1wXjSP3Brx3YO3vTrD9UdBw  
+**文件名称：**A2--周海莲--基于AIGC的蚂蚁新一代测试用例自动生成技术.pdf 分享链接:https://pan.baidu.com/s/1L7Tz80m2U3pM59xAR-q7jg  
+**文件名称：**A4--吕飞飞--基于LLM提升测试效率的应用实践.pdf 分享链接:https://pan.baidu.com/s/15eAdNeH-9UdniBc6T7nnGg  
+**文件名称：**A4--陈哲--从Ansible playbook到测试能力编排.pdf 分享链接:https://pan.baidu.com/s/1rbtmRDZmsmR5mT0R9WUfQQ  
+**文件名称：**A4--胡涛--从压测到剖析 - 中国银联性能测试实践(2).pdf 分享链接:https://pan.baidu.com/s/1Jd4y8QhEI4T7XqE5SnpmVQ  
+**文件名称：**A3--丁海苗--基于录制回放的智能化测试在金融场景的落地及实践.pdf 分享链接:https://pan.baidu.com/s/1YxU9PpudAj41C9KjX-A-mA  
+**文件名称：**A2--曾睦宁--广发银行信创项目技术测试实践分享(2).pdf 分享链接:https://pan.baidu.com/s/1ng_Ff68adsJEkhrj9mUu7g  
+**文件名称：**A4--陈哲--从Ansible playbook到测试能力编排(1).pdf 分享链接:https://pan.baidu.com/s/1Xpcy0qOZBt43m9wkNPqKXg  
+**文件名称：**A1--刘晓娟--百度单元测试智能生成实践.pdf 分享链接:https://pan.baidu.com/s/1tz7BqOQJ3oUgucs1bR7f8A  
+**文件名称：**A1--王海兵--基于流量回放的自动化回归测试平台AREX探索实践.pdf 分享链接:https://pan.baidu.com/s/1Gt29pbmgkprjY3hc0M4Bog  
+**文件名称：**A2-穆红伟-基础设施-企业级全栈测试平台.pdf 分享链接:https://pan.baidu.com/s/1caN92mb_a6xep0XvoZ39BA  
+**文件名称：**A3-余超-多云环境中部署及管理Kubernetes 集群的测试自动化实现(1).pdf 分享链接:https://pan.baidu.com/s/1djGRmVPcnIjgL65cYke7rA  
+**文件名称：**A4--胡涛--从压测到剖析 - 中国银联性能测试实践(1).pdf 分享链接:https://pan.baidu.com/s/11o5kcPY2CoPQYJfZRmwsXA  
+**文件名称：**A2--曾睦宁--广发银行信创项目技术测试实践分享(1).pdf 分享链接:https://pan.baidu.com/s/1mJ9rs8LbpajNDP09mg9WbA  
+**文件名称：**A2-穆红伟-基础设施-企业级全栈测试平台(1).pdf 分享链接:https://pan.baidu.com/s/1ept7Pbo8yXSWEyZ4tu-wUg  
+**文件名称：**A4--胡涛--从压测到剖析 - 中国银联性能测试实践.pdf 分享链接:https://pan.baidu.com/s/1t7SGlpyKC3-i4Tvr4TQDLA  
+**文件名称：**A1--王璐璐--坚持追求卓越 - 软件测试的自我革新与实践(1).pdf 分享链接:https://pan.baidu.com/s/1iVc4JTt5PlhxLvRxmX67bw  
+**文件名称：**A1--林冰玉--延伸测试边界，构建银行新型质量体系(2).pdf 分享链接:https://pan.baidu.com/s/1vw7KM8O7pDFMkE805JlkKQ  
+**文件名称：**A2--周海莲--基于AIGC的蚂蚁新一代测试用例自动生成技术(1).pdf 分享链接:https://pan.baidu.com/s/1tyMj945twYX3U-wQsmp9aw  
+**文件名称：**A3--丁海苗--基于录制回放的智能化测试在金融场景的落地及实践(2).pdf 分享链接:https://pan.baidu.com/s/1TrsK5c7TiA3U3wXuxtBQMQ  
+**文件名称：**A1--林冰玉--延伸测试边界，构建银行新型质量体系.pdf 分享链接:https://pan.baidu.com/s/199heu4MxHd9ca-tpmM4cLA  
+**文件名称：**A2--曾睦宁--广发银行信创项目技术测试实践分享.pdf 分享链接:https://pan.baidu.com/s/1G1XH2bTImRbzuomVklTAxg  
+**文件名称：**A1--王海兵--基于流量回放的自动化回归测试平台AREX探索实践(1).pdf 分享链接:https://pan.baidu.com/s/1afAJjxaHCQFo34bkm57ACA  
+""", unsafe_allow_html=True)
+
+

@@ -26,6 +26,7 @@ with st.sidebar:
             ]),
             sac.MenuItem('接口文档'),
         ]),
+        sac.MenuItem('UI设计-Streamlit学习', icon='robot'),
         sac.MenuItem('AIGC应用合集', icon='git', ),
         sac.MenuItem("峰会学习", icon='google', children=[
             sac.MenuItem('人工智能'),
@@ -33,7 +34,7 @@ with st.sidebar:
             sac.MenuItem('其他')
         ]),
         sac.MenuItem('优秀开源案例', icon='gitlab'),
-        sac.MenuItem('UI设计-Streamlit学习', icon='robot')]
+       ]
         , key="menu", size=18, open_index=[1])
 
 if st.session_state["menu"] == "主页":
@@ -102,3 +103,6 @@ if st.session_state["menu"] == "接口文档":
     apiShow()
 if st.session_state["menu"] == "人工智能":
     meetingFile_AI()
+
+if st.session_state["menu"] == "测试领域":
+    meetingFile_softTest()
