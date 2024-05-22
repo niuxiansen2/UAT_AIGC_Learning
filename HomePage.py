@@ -9,7 +9,7 @@ from TypicalCase import *
 from api_file import *
 from meetingLearning import *
 
-st.set_page_config(page_title="UAT AIGC社区", page_icon="👽", layout="wide")
+st.set_page_config(page_title="UAT AIGC社区", page_icon="🌈", layout="wide")
 
 with st.sidebar:
     st.image("imgSource/logo.png", use_column_width=True)
@@ -34,7 +34,7 @@ with st.sidebar:
             sac.MenuItem('其他')
         ]),
         sac.MenuItem('优秀开源案例', icon='gitlab'),
-       ]
+    ]
         , key="menu", size=18, open_index=[1])
 
 if st.session_state["menu"] == "主页":
@@ -75,7 +75,7 @@ if st.session_state["menu"] == "主页":
             """
         )
 
-if st.session_state["menu"] == "基本介绍":#使用markdown
+if st.session_state["menu"] == "基本介绍":  # 使用markdown
     baseKnowledge2()
     # base2()
 
@@ -87,8 +87,6 @@ if st.session_state["menu"] == "优秀开源案例":
 
 if st.session_state["menu"] == "AIGC应用合集":
     AIGC_SET()
-
-
 
 if st.session_state["menu"] == "UI设计-Streamlit学习":
     main()
