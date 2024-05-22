@@ -48,16 +48,6 @@ def baseKnowledge2():
     st.image("imgSource/baseImg1.png")
 
     st.markdown("""
-    ## **1.2 开源**
-
-⭐️ BISHENG于2023年8月底正式基于**Apache 2.0****协议开源（无任何附加协议），可二开商用**，Github地址：https://github.com/dataelement/bisheng
-
-    """)
-
-    st.image("fileSource/基本操作_img/clip_image005.jpg", use_column_width=True)
-
-    st.markdown("""
-    ## **1.3 Demo地址**
 
 ⭐️ **Demo****环境地址：**https://bisheng.dataelem.com/
 
