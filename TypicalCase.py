@@ -5,16 +5,11 @@ def case_base_talk():
     # 标题
     st.header("角色对话案例", divider="rainbow")
 
-    def primaryLearning():
-        with st.container():
-            st.header("⌨️基本操作入门", divider="rainbow")
-            # fileshow()
-            # st.divider()
-            # st.divider()
 
-            import streamlit.components.v1 as components
-            components.iframe("https://blog.csdn.net/weixin_41165446/article/details/139115348?spm=1001.2014.3001.5502", width=1200,
-                              height=2000, scrolling=True)
+
+    import streamlit.components.v1 as components
+    components.iframe("https://blog.csdn.net/weixin_41165446/article/details/139115348", width=1200,
+                      height=2000, scrolling=True)
 
     # # 本地PDF文件路径
     # file_path = "./fileSource/角色对话.pdf"
