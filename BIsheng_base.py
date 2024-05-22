@@ -45,7 +45,7 @@ def baseKnowledge2():
 •     **可靠与企业级**：当前许多同类的开源项目仅适用于实验测试场景，缺少真正生产使用的企业级特性，包括：高并发下的高可用、应用运营及效果持续迭代优化、贴合真实业务场景的实用功能等，这些都是毕昇平台的差异化能力；另外，更直观的是，企业内的数据质量参差不齐，想要真正把所有数据利用起来，首先需要有完备的非结构化数据治理能力，而这是**过去几年我们团队所积累的核心能力**，这部分我们也完全免费提供了出来。
 
     """)
-    st.image("fileSource/基本操作_img/clip_image003.jpg")
+    st.image("imgSource/baseImg1.png")
 
     st.markdown("""
     ## **1.2 开源**
@@ -78,7 +78,7 @@ def baseKnowledge2():
 使用毕昇平台，我们可以搭建各类丰富的大模型应用：
 
     """)
-    st.image("fileSource/基本操作_img/use.png", use_column_width=True)
+    st.image("imgSource/use.png", use_column_width=True)
     st.markdown("""
 
 # **常用资源链接**
