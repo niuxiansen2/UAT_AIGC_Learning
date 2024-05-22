@@ -88,7 +88,7 @@ if st.session_state["menu"] == "优秀开源案例":
 if st.session_state["menu"] == "AIGC应用合集":
     AIGC_SET()
 
-if st.session_state["menu"] == "UI设计-Streamlit学习":
+if st.session_state["menu"] == "UI设计-Streamlit":
     main()
 
 if st.session_state["menu"] == "角色对话":
