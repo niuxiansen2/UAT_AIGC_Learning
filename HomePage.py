@@ -16,7 +16,7 @@ with st.sidebar:
     sac.menu([
         sac.MenuItem('主页', icon='house-fill', ),
         # sac.MenuItem('业务运营智能审批要件', icon='box-fill'),
-        sac.MenuItem("bisheng平台学习", icon='robot', children=[
+        sac.MenuItem("bisheng平台", icon='robot', children=[
             sac.MenuItem('基本介绍'),
             sac.MenuItem('快速入门'),
             sac.MenuItem('典型案例', children=[
@@ -26,9 +26,9 @@ with st.sidebar:
             ]),
             sac.MenuItem('接口文档'),
         ]),
-        sac.MenuItem('UI设计-Streamlit学习', icon='robot'),
+        sac.MenuItem('UI设计-Streamlit', icon='robot'),
         sac.MenuItem('AIGC应用合集', icon='git', ),
-        sac.MenuItem("峰会学习", icon='google', children=[
+        sac.MenuItem("峰会分享", icon='google', children=[
             sac.MenuItem('人工智能'),
             sac.MenuItem('测试领域'),
             sac.MenuItem('其他')
