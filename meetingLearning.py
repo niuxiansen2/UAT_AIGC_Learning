@@ -27,7 +27,7 @@ def meetingFile_AI():
 
 - **文件名称:** 教育大模型，说你行你才行-郭家.pdf 分享链接:https://pan.baidu.com/s/1tku_UxCnMf9BvyKV7-Rfcg  
 
--- **文件名称:**  大模型数据安全：从测评到实时检测的全流程实践-申书恒.pdf 分享链接:https://pan.baidu.com/s/14LkgpRh0VzDRMeAJ8ipusQ  
+- **文件名称:**  大模型数据安全：从测评到实时检测的全流程实践-申书恒.pdf 分享链接:https://pan.baidu.com/s/14LkgpRh0VzDRMeAJ8ipusQ  
 
 - **文件名称:** RAG+商业落地实践踩坑-高原.pdf 分享链接:https://pan.baidu.com/s/1Bw0jyEIdNYYFnWD8oA5WLA  
 
